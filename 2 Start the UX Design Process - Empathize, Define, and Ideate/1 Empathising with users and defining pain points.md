@@ -85,7 +85,7 @@ Types of pain points:
 - Financial: E.g. price
 - Product: Often quality issues, or unintuitive
 - Process: Struggling with actual process from point A to B
-- Support: Customer service help
+- Support: Customer service help   
 
 ## Personas
 
@@ -96,6 +96,8 @@ Benefits:
 - Builds empathy: Humanises the users
 - Tell stories: Helps you predict a user's needs
 - Stress-test designs: Does a change work for all personas?
+
+**Types of personas** <https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them/>
 
 ## Feedback
 
